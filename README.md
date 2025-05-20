@@ -1,4 +1,3 @@
----
 
 ### 📘 AI Powered Sign Language to Voice Assistant for Mute
 
