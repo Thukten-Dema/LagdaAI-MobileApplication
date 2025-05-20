@@ -1,16 +1,25 @@
-# lagda_ai
+---
 
-A new Flutter project.
+### 📘 AI Powered Sign Language to Voice Assistant for Mute
 
-## Getting Started
+This mobile application bridges the communication gap for non-verbal individuals by converting sign language gestures into both text and natural-sounding speech in real time. Developed using deep learning, computer vision, and mobile UI/UX principles, the app includes gesture recognition, emergency alert notifications, and a speech synthesis system for inclusivity and accessibility.
 
-This project is a starting point for a Flutter application.
+#### 🔍 Features
+- Real-time gesture recognition using deep learning models
+- Voice and text-based output for detected gestures
+- Emergency gesture detection with caregiver alert notifications
+- User-friendly mobile interface designed with Flutter and Figma
+- Backend integration using Firebase for secure data handling
 
-A few resources to get you started if this is your first Flutter project:
+#### ⚙️ Technologies Used
+- **Frontend:** Dart, Flutter, Figma, Adobe Illustrator  
+- **Backend:** Dart, Firebase  
+- **AI/ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, fast.ai, imgaug  
+- **Development Tools:** Visual Studio Code, Google Colab, GitLab (version control)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### 🎯 Learning Outcomes
+- Gained hands-on experience in training and integrating multimodal neural networks
+- Learned agile development practices (SCRUM) for collaborative software engineering
+- Applied AI concepts in real-world assistive technology
+- Developed proficiency in tools like TensorFlow, Flutter, Firebase, and OpenCV
+- Strengthened problem-solving, project management, and teamwork skills
