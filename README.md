@@ -22,3 +22,7 @@ This mobile application bridges the communication gap for non-verbal individuals
 - Applied AI concepts in real-world assistive technology
 - Developed proficiency in tools like TensorFlow, Flutter, Firebase, and OpenCV
 - Strengthened problem-solving, project management, and teamwork skills
+
+### 🎨 UI/UX Design (Figma)
+
+- [View LagdaAI UI Prototype on Figma](https://www.figma.com/proto/kPcTl3eH7nd3xjXLqxjpJx/Prototyping-group7?node-id=81-2&t=E5Yj3ddjjc4HPBb3-1)
